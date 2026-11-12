@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 1,
+  "version": 2,
   "updated": "2026-11-12",
   "featured": [
     {
@@ -68,18 +68,6 @@
       "listed": true
     },
     {
-      "id": "openrouter:google/gemma-4-26b-a4b-it:free",
-      "label": "Gemma 4 26B",
-      "billing": "free",
-      "listed": true
-    },
-    {
-      "id": "openrouter:google/gemma-4-31b-it:free",
-      "label": "Gemma 4 31B",
-      "billing": "free",
-      "listed": true
-    },
-    {
       "id": "openrouter:liquid/lfm-3-1.7b:free",
       "label": "LFM3 1.7B",
       "billing": "free",
@@ -114,36 +102,6 @@
       "label": "Flint v1.0",
       "billing": "free",
       "listed": true
-    },
-    {
-      "id": "openrouter:thinkingmachines/inkling-2-small:free",
-      "label": "Inkling 2 Small",
-      "billing": "free",
-      "listed": true
-    },
-    {
-      "id": "qwen/qwen3.8-flash:free",
-      "label": "Qwen3.8 Flash",
-      "billing": "free",
-      "listed": false
-    },
-    {
-      "id": "deepseek/deepseek-v4-flash-0731:free",
-      "label": "DeepSeek V4 Flash 0731",
-      "billing": "free",
-      "listed": false
-    },
-    {
-      "id": "deepseek/deepseek-v4-pro:free",
-      "label": "DeepSeek V4 Pro",
-      "billing": "free",
-      "listed": false
-    },
-    {
-      "id": "deepseek/deepseek-v4-flash:free",
-      "label": "DeepSeek V4 Flash",
-      "billing": "free",
-      "listed": false
     }
   ]
 }
