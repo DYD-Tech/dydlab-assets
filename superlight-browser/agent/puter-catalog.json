@@ -1,0 +1,149 @@
+{
+  "schema": 1,
+  "version": 1,
+  "updated": "2026-11-12",
+  "featured": [
+    {
+      "id": "deepseek/deepseek-v4.1-flash-1017",
+      "label": "DeepSeek V4.1 Flash 1017",
+      "billing": "paid",
+      "listed": true,
+      "pricing": {
+        "inputUsdPer1M": 0.12,
+        "outputUsdPer1M": 0.48,
+        "caption": "约 $0.12 / $0.48 每百万 token（输入/输出）"
+      }
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash",
+      "label": "DeepSeek V4 Flash",
+      "billing": "paid",
+      "listed": true,
+      "pricing": {
+        "inputUsdPer1M": 0.14,
+        "outputUsdPer1M": 0.28,
+        "caption": "约 $0.14 / $0.28 每百万 token（输入/输出）"
+      }
+    },
+    {
+      "id": "qwen/qwen3.8-flash",
+      "label": "Qwen3.8 Flash",
+      "billing": "paid",
+      "listed": true,
+      "pricing": {
+        "inputUsdPer1M": 0.15,
+        "outputUsdPer1M": 0.47,
+        "caption": "约 $0.15 / $0.47 每百万 token（输入/输出）"
+      }
+    },
+    {
+      "id": "qwen/qwen3.7-flash",
+      "label": "Qwen3.7 Flash",
+      "billing": "paid",
+      "listed": true,
+      "pricing": {
+        "inputUsdPer1M": 0.03,
+        "outputUsdPer1M": 0.13,
+        "caption": "约 $0.03 / $0.13 每百万 token（短提示；更长上下文另有阶梯）"
+      }
+    }
+  ],
+  "free": [
+    {
+      "id": "infron:qwen/qwen3.8-27b:free",
+      "label": "Qwen3.8 27B",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:baidu/ernie-5.5-flash-preview:free",
+      "label": "ERNIE 5.5 Flash 预览",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:cohere/north-mini-code:free",
+      "label": "North Mini Code",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:google/gemma-4-26b-a4b-it:free",
+      "label": "Gemma 4 26B",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:google/gemma-4-31b-it:free",
+      "label": "Gemma 4 31B",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:liquid/lfm-3-1.7b:free",
+      "label": "LFM3 1.7B",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "label": "Nemotron 3 Nano Omni",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:nvidia/nemotron-3-ultra-550b-a55b:free",
+      "label": "Nemotron 3 Ultra",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:nvidia/nemotron-3.5-lightning:free",
+      "label": "Nemotron 3.5 Lightning",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:nvidia/nemotron-3.5-super-vl:free",
+      "label": "Nemotron 3.5 Super VL",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:recursive/flint-v1.0:free",
+      "label": "Flint v1.0",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "openrouter:thinkingmachines/inkling-2-small:free",
+      "label": "Inkling 2 Small",
+      "billing": "free",
+      "listed": true
+    },
+    {
+      "id": "qwen/qwen3.8-flash:free",
+      "label": "Qwen3.8 Flash",
+      "billing": "free",
+      "listed": false
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash-0731:free",
+      "label": "DeepSeek V4 Flash 0731",
+      "billing": "free",
+      "listed": false
+    },
+    {
+      "id": "deepseek/deepseek-v4-pro:free",
+      "label": "DeepSeek V4 Pro",
+      "billing": "free",
+      "listed": false
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash:free",
+      "label": "DeepSeek V4 Flash",
+      "billing": "free",
+      "listed": false
+    }
+  ]
+}
